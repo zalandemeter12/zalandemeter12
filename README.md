@@ -1,16 +1,31 @@
-### Hi there 👋
+## Hello there 🪐
 
-<!--
-**zalandemeter12/zalandemeter12** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align='left'>
+I’m studying computer engineering BSC at <a href='https://www.bme.hu/?language=en' target=_blank>Budapest University of Technology and Economics</a>. Currently working as the Driverless Group leader at <a href='https://frt.bme.hu/' target=_blank>BME Formula Racing Team</a>. Now I’m mainly focused on environment perception, object detection and anything connected to computer vision.
+</p>
 
-Here are some ideas to get you started:
+```cpp
+#include <iostream>
+using namespace std;
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+int main() {
+    string name = "Zalán Demeter",
+           location = "Budapest, Hungary",
+           editor = "Visual Studio Code";
+
+    cout << endl;
+    cout << "Name: "              << name << endl;
+    cout << "Living in: "         << location << endl;
+    cout << "Favourite editor: "  << editor << endl;
+    cout << endl;
+
+    return 0;
+}
+```
+
+[![Gmail](https://img.shields.io/badge/Gmail-313131?style=for-the-badge&logo=gmail&logoColor=red)](mailto:zalandemeter12@gmail.com)
+[![Linkedin](https://img.shields.io/badge/LinkedIn-313131?style=for-the-badge&logo=linkedin&logoColor=blue)](https://www.linkedin.com/in/zalandemeter/)
+[![Instagram](https://img.shields.io/badge/Instagram-313131?style=for-the-badge&logo=instagram)](https://www.instagram.com/zalan_demeter/)
+[![Facebook](https://img.shields.io/badge/Facebook-313131?style=for-the-badge&logo=facebook)](https://www.facebook.com/zalan.demeter/)
+[![Discord](https://img.shields.io/badge/Discord-313131?style=for-the-badge&logo=discord)](https://discordapp.com/users/217545403539783680/)
+[![Spotify](https://img.shields.io/badge/Spotify-313131?&style=for-the-badge&logo=spotify)](https://open.spotify.com/user/21isff6cnj6hjnaypgmojwpma?si=y_9pbilIQqCQ3mnWVoYhYw)
