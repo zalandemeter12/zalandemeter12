@@ -4,6 +4,7 @@
 I’m studying computer engineering BSC at <a href='https://www.bme.hu/?language=en' target=_blank>Budapest University of Technology and Economics</a>. Currently working as the Driverless Group leader at <a href='https://frt.bme.hu/' target=_blank>BME Formula Racing Team</a>. Now I’m mainly focused on environment perception, object detection and anything connected to computer vision.
 </p>
 
+<!--
 ```cpp
 #include <iostream>
 using namespace std;
@@ -22,6 +23,9 @@ int main() {
     return 0;
 }
 ```
+-->
+
+![Formula Student Germany 2021](https://github.com/zalandemeter12/zalandemeter12/blob/main/banner.jpg)
 
 [![Gmail](https://img.shields.io/badge/Gmail-313131?style=for-the-badge&logo=gmail&logoColor=red)](mailto:zalandemeter12@gmail.com)
 [![Linkedin](https://img.shields.io/badge/LinkedIn-313131?style=for-the-badge&logo=linkedin&logoColor=blue)](https://www.linkedin.com/in/zalandemeter/)
