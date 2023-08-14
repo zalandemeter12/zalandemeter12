@@ -1,7 +1,9 @@
 ## Hello there 🪐
 
 <p align='left'>
-I’m studying computer engineering BSC at <a href='https://www.bme.hu/?language=en' target=_blank>Budapest University of Technology and Economics</a>. Currently working as a Driverless Supervisor at <a href='https://frt.bme.hu/' target=_blank>BME Formula Racing Team</a>. Now I’m mainly focused on environment perception, object detection and anything connected to computer vision.
+I completed my <a href='https://www.bme.hu/computer-science-engineering-bsc?language=en' target=_blank>BSC</a> in computer science engineering and am currently pursuing an <a href='https://www.bme.hu/autonomous-vehicle-control-engineer-msc?language=en' target=_blank>MSC</a> in autonomous vehicle control engineering at  <a href='https://www.bme.hu/?language=en' target=_blank>Budapest University of Technology and Economics</a>. 
+I am an alumnus and a former driverless group leader of the <a href='https://frt.bme.hu/' target=_blank>BME Formula Racing Team</a> and currently working as a Research Software Engineer at <a href='https://humda.hu/en/organization' target=_blank>
+HUMDA Lab</a> where I am dedicated to the advancement of autonomous racing algorithms. My primary areas of interest are environment perception, object detection and the broader domain of computer vision.
 </p>
 
 <!--
@@ -25,7 +27,7 @@ int main() {
 ```
 -->
 
-![Formula Student Germany 2021](https://github.com/zalandemeter12/zalandemeter12/blob/main/banner.jpg)
+![Formula Student Germany 2021](https://github.com/zalandemeter12/zalandemeter12/blob/main/banner1.jpg)
 
 [![Gmail](https://img.shields.io/badge/Gmail-313131?style=for-the-badge&logo=gmail&logoColor=red)](mailto:zalandemeter12@gmail.com)
 [![Linkedin](https://img.shields.io/badge/LinkedIn-313131?style=for-the-badge&logo=linkedin&logoColor=blue)](https://www.linkedin.com/in/zalandemeter/)
