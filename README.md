@@ -35,3 +35,5 @@ int main() {
 [![Facebook](https://img.shields.io/badge/Facebook-313131?style=for-the-badge&logo=facebook)](https://www.facebook.com/zalan.demeter/)
 [![Discord](https://img.shields.io/badge/Discord-313131?style=for-the-badge&logo=discord)](https://discordapp.com/users/217545403539783680/)
 [![Spotify](https://img.shields.io/badge/Spotify-313131?&style=for-the-badge&logo=spotify)](https://open.spotify.com/user/21isff6cnj6hjnaypgmojwpma?si=y_9pbilIQqCQ3mnWVoYhYw)
+
+[![committers.top badge](https://user-badge.committers.top/hungary/zalandemeter12.svg)](https://user-badge.committers.top/hungary/zalandemeter12)
